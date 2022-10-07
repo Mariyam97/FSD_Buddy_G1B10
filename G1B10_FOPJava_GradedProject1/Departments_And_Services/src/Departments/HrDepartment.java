@@ -30,7 +30,7 @@ public class HrDepartment extends SuperDepartment {
 	}
 
 	public void display() {
-		System.out.println("Welcome to " + departmentName());
+		System.out.println(" Welcome to " + departmentName());
 		System.out.println(doActivity());
 		System.out.println(getTodaysWork());
 		System.out.println(getWorkDeadline());
