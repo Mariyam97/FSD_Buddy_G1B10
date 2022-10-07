@@ -26,11 +26,11 @@ public class TechDepartment extends SuperDepartment{
 	}
 
 	public String getTechStackInformation() {
-		return "Core JAVA";
+		return " Core JAVA";
 	}
 
 	public void display() {
-		System.out.println("Welcome to " + departmentName());
+		System.out.println(" Welcome to " + departmentName());
 		System.out.println(getTodaysWork());
 		System.out.println(getWorkDeadline());
 		System.out.println(getTechStackInformation());
