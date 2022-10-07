@@ -20,9 +20,9 @@ public class Main {
 		// Display functionality of Each Department
 
 		adminDepartment.display();
-		System.out.print("\n");
+		System.out.println();
 		hRDepartment.display();
-		System.out.println("\n");
+		System.out.println();
 		techDepartment.display();
 	}
 
