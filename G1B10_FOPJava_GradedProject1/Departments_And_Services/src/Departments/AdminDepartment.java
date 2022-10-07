@@ -24,7 +24,7 @@ public class AdminDepartment extends SuperDepartment{
 	}
 
 	public void display() {
-		System.out.println("Welcome to " + departmentName());
+		System.out.println(" Welcome to " + departmentName());
 		System.out.println(getTodaysWork());
 		System.out.println(getWorkDeadline());
 		System.out.println(isTodayAHoliday());
