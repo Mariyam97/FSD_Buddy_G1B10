@@ -9,7 +9,7 @@ getWorkDeadline will return “ Nil “
 isTodayAHoliday will return “ Today is not a holiday”.
 */
 
-package Departments;
+package com.greatlearning. Departments;
 
 public class SuperDepartment {
 
